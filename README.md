@@ -1,40 +1,39 @@
-## The Freeplay Sandbox Dataset
+The Freeplay Sandbox Dataset
+============================
 
-TDB
----
+![Screenshot of the dataset, viewed in RViz](media/3d-point-cloud-facial-features.jpg)
 
-You can use the [editor on GitHub](https://github.com/freeplay-sandbox/freeplay-sandbox.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The **Freeplay Sandbox Dataset** (also called _PInSoRo dataset_) is a large, open-data dataset of chid-child and child-robot interactions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Recorded data
+-------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Each play episode includes the following datastreams:
 
-```markdown
-Syntax highlighted code block
+| **Domain**    | **Type**                                                           | **Details**                   |
+|---------------|--------------------------------------------------------------------|-------------------------------|
+| _child 1_     | audio                                                              | 16kHz, mono, semi-directional |
+|               | face (RGB)                                                         | qHD (960x540), 30Hz           |
+|               | face (depth)                                                       | VGA (640x480), 30Hz           |
+|               | facial features                                                    | 68 3D points, 30Hz            |
+| _child 2_     | audio                                                              | 16kHz, mono, semi-directional |
+|               | face (RGB)                                                         | qHD (960x540), 30Hz           |
+|               | face (depth)                                                       | VGA (640x480), 30Hz           |
+|               | facial features                                                    | 68 3D points, 30Hz            |
+| _environment_ | RGB                                                                | qHD (960x540), 29.7Hz         |
+| _touchscreen_ | background drawing (RGB)                                           | 4Hz                           |
+|               | touches                                                            | 6 points multi-touch, 10Hz    |
+|               | items position and orientation                                     | (x,y,theta), 10Hz             |
+| _annotations_ | timestamped annotations of social behaviours and remarkable events |                               |
+| _other_       | static transforms between touchscreen and facial cameras           |                               |
+|               | cameras calibration informations                                   |                               |
 
-# Header 1
-## Header 2
-### Header 3
+Acquisition procedure
+---------------------
 
-- Bulleted
-- List
+![Acquisition setup in the child-child condition](media/setup.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freeplay-sandbox/freeplay-sandbox.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
