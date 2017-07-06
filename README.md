@@ -5,9 +5,34 @@ The Freeplay Sandbox Dataset
 
 The **Freeplay Sandbox Dataset** (also called _PInSoRo dataset_) is a large, open-data dataset of chid-child and child-robot interactions.
 
+Obtaining the dataset
+---------------------
 
-Recorded data
--------------
+For legal and ethical reasons, the dataset is only available to **academics**.
+
+The dataset exists in two flavours:
+
+- the anonymised version, **with no video streams**, that can be freely
+  downloaded once you fill in a short ethics declaration online and provide an
+  academic email address.
+
+- the full dataset, **include raw video streams**, that can be obtained after
+  getting suitable **ethical clearance from your university ethics committee**.
+  Due to the size of the full dataset (several terabytes), we share this
+  version by shipping to you an (encrypted) harddrive with the data.
+
+**The dataset will be available Autumn 2017**
+
+### Dataset excerpt
+
+For evaluation purpose, you can download a short excerpt (10 seconds) of the full dataset here:
+
+_link to be added before the end of July 2017_
+
+Dataset details
+---------------
+
+### Recorded data
 
 Each play episode includes the following datastreams:
 
@@ -29,8 +54,8 @@ Each play episode includes the following datastreams:
 | _other_       | static transforms between touchscreen and facial cameras           |                               |
 |               | cameras calibration informations                                   |                               |
 
-Acquisition procedure
----------------------
+### Acquisition procedure
+
 
 ![Acquisition setup in the child-child condition](media/setup.png)
 
