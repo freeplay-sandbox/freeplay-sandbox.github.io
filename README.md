@@ -1,9 +1,20 @@
 The Freeplay Sandbox Dataset
 ============================
 
-![Screenshot of the dataset, viewed in RViz](media/3d-point-cloud-facial-features.jpg)
+![The two conditions](media/setup-illustration.png)
 
-The **Freeplay Sandbox Dataset** (also called _PInSoRo dataset_) is a large, open-data dataset of chid-child and child-robot interactions.
+The **Freeplay Sandbox Dataset** (also called _PInSoRo dataset_) is a large (120
+children, 45h+ of RGB-D video recordings), open-data dataset of chid-child and
+child-robot interactions.
+
+These interactions are recorded during little-constrained **free play**
+episodes. They emcompass a rich and diverse set of social behaviours.
+
+<video src="media/bestof.mp4">
+Sorry, your browser doesn't support embedded videos, 
+but don't worry, you can <a href="media/bestof.mp4">download it</a>
+and watch it with your favorite video player!
+</video>
 
 Obtaining the dataset
 ---------------------
@@ -29,10 +40,20 @@ For evaluation purpose, you can download a short excerpt (10 seconds) of the ful
 
 _link to be added before the end of July 2017_
 
-Dataset details
+
+Acquisition Procedure
+---------------------
+
+The 
+
+![Acquisition setup in the child-child condition](media/setup.png)
+
+Dataset Content
 ---------------
 
 ### Recorded data
+
+![Screenshot of the dataset, viewed in RViz](media/3d-point-cloud-facial-features.jpg)
 
 Each play episode includes the following datastreams:
 
@@ -54,10 +75,44 @@ Each play episode includes the following datastreams:
 | _other_       | static transforms between touchscreen and facial cameras           |                               |
 |               | cameras calibration informations                                   |                               |
 
-### Acquisition procedure
+### Annotation of social interactions
+
+![Screenshot of the annotation tool](media/annotator.jpg)
+
+Using an [annotation tool](https://github.com/freeplay-sandbox/annotator/) specifically developped for this purpose, we are currently annotating the entire dataset with **high level social constructs**.
+
+Specifically, the following constructs are annotated:
 
 
-![Acquisition setup in the child-child condition](media/setup.png)
+| **Task Engagement**   | goal-oriented play |
+|                       | aimless play       |
+|                       | adult seeking      |
+|                       | no play            |
+|-----------------------|--------------------|
+| **Social Engagement** | solitary play      |
+|                       | onlooker           |
+|                       | parallel play      |
+|                       | associative play   |
+|                       | cooperative play   |
+|-----------------------|--------------------|
+| **Social attitude**   | pro-social         |
+|                       | adversarial        |
+|                       | assertive          |
+|                       | frustrated         |
+|                       | passive            |
+
+
+Commonly observed social dynamics are mapped to these constructs.
+For instance, a sequence during which a child appears to be bored is annotated
+as *passive*; an annoyed child would be *frustrated*, and the child being
+annoying can be labelled as exhibiting an *adversarial* behaviour.
+
+Other example include: a gentle hand grabbing would be *assertive* vs a
+not-so-gentle hand grabbing that would be *adversarial*; manipulative or bossy
+behaviours are labelled as *assertive*; when children laugh together, they
+exhibit a *pro-social* attitude, etc.
+
+
 
 
 
