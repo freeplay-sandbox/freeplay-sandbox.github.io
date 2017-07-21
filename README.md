@@ -16,38 +16,6 @@ but don't worry, you can <a href="media/bestof.mp4">download it</a>
 and watch it with your favorite video player!
 </video>
 
-Obtaining the dataset
----------------------
-
-For legal and ethical reasons, the dataset is only available to **academics**.
-
-The dataset exists in two flavours:
-
-- the anonymised version, **with no video streams**, that can be freely
-  downloaded once you fill in a short ethics declaration online and provide an
-  academic email address.
-
-- the full dataset, **include raw video streams**, that can be obtained after
-  getting suitable **ethical clearance from your university ethics committee**.
-  Due to the size of the full dataset (several terabytes), we share this
-  version by shipping to you an (encrypted) harddrive with the data.
-
-**The dataset will be available Autumn 2017**
-
-### Dataset excerpt
-
-For evaluation purpose, you can download a short excerpt (10 seconds) of the full dataset here:
-
-_link to be added before the end of July 2017_
-
-
-Acquisition Procedure
----------------------
-
-The 
-
-![Acquisition setup in the child-child condition](media/setup.png)
-
 Dataset Content
 ---------------
 
@@ -125,6 +93,55 @@ Other example include: a gentle hand grabbing would be *assertive* vs a
 not-so-gentle hand grabbing that would be *adversarial*; manipulative or bossy
 behaviours are labelled as *assertive*; when children laugh together, they
 exhibit a *pro-social* attitude, etc.
+
+How to get the dataset
+----------------------
+
+For legal and ethical reasons, the dataset is only available to **academics**.
+
+The dataset exists in two flavours:
+
+- the anonymised version, **with no video streams**, that can be freely
+  downloaded once you fill in a short ethics declaration online and provide an
+  academic email address.
+
+- the full dataset, **include raw video streams**, that can be obtained after
+  getting suitable **ethical clearance from your university ethics committee**.
+  Due to the size of the full dataset (several terabytes), we share this
+  version by shipping to you an (encrypted) harddrive with the data.
+
+**The dataset will be available Autumn 2017**
+
+### Dataset excerpt
+
+For evaluation purpose, you can download a short excerpt (10 seconds) of the full dataset here:
+
+_link to be added before the end of July 2017_
+
+
+Acquisition Procedure
+---------------------
+
+To know more about the acquisition procedure, please refer to the paper *[paper
+under review -- to be added soon]*
+
+![Acquisition setup in the child-child condition](media/setup.png)
+
+If you wish to run the study, the various software components are all
+opensource:
+
+- The [core](https://github.com/freeplay-sandbox/core) acquisition and robot
+  control pipeline, written in C++ and Python, and using extensively
+  [ROS](https://www.ros.org).
+- The [user interface](https://github.com/freeplay-sandbox/qt-gui) that is meant
+  to run on a large touchscreen, written in Qt QML.
+- The [supervisor](https://github.com/freeplay-sandbox/web-supervisor) for the
+  experimenter to control the whole system and conveniently record participants
+  (Python + HTML)
+- The [annotation tool](https://github.com/freeplay-sandbox/annotator) to
+  annotate the recorded datasets (C++, requires ROS and Qt).
+- [Analysis tools](https://github.com/freeplay-sandbox/analysis) to run pose
+  detection and compute various statistics on the dataset (Python, C++).
 
 
 
