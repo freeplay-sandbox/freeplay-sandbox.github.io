@@ -10,7 +10,7 @@ child-robot interactions.
 These interactions are recorded during little-constrained **free play**
 episodes. They emcompass a rich and diverse set of social behaviours.
 
-<video src="media/bestof.mp4" controls>
+<video controls src="media/bestof.mp4">
 Sorry, your browser doesn't support embedded videos, 
 but don't worry, you can <a href="media/bestof.mp4">download it</a>
 and watch it with your favorite video player!
@@ -62,11 +62,15 @@ Each play episode includes the following datastreams:
 | _child 1_     | audio                                                              | 16kHz, mono, semi-directional |
 |               | face (RGB)                                                         | qHD (960x540), 30Hz           |
 |               | face (depth)                                                       | VGA (640x480), 30Hz           |
-|               | facial features                                                    | 68 3D points, 30Hz            |
+|               | facial features                                                    | 70 3D points, 30Hz            |
+|               | skeleton                                                           | 15 2D points, 30Hz            |
+|               | hands                                                              | 20 x 2 2D points, 30Hz        |
 | _child 2_     | audio                                                              | 16kHz, mono, semi-directional |
 |               | face (RGB)                                                         | qHD (960x540), 30Hz           |
 |               | face (depth)                                                       | VGA (640x480), 30Hz           |
-|               | facial features                                                    | 68 3D points, 30Hz            |
+|               | facial features                                                    | 70 3D points, 30Hz            |
+|               | skeleton                                                           | 15 2D points, 30Hz            |
+|               | hands                                                              | 20 x 2 2D points, 30Hz        |
 | _environment_ | RGB                                                                | qHD (960x540), 29.7Hz         |
 | _touchscreen_ | background drawing (RGB)                                           | 4Hz                           |
 |               | touches                                                            | 6 points multi-touch, 10Hz    |
@@ -74,6 +78,11 @@ Each play episode includes the following datastreams:
 | _annotations_ | timestamped annotations of social behaviours and remarkable events |                               |
 | _other_       | static transforms between touchscreen and facial cameras           |                               |
 |               | cameras calibration informations                                   |                               |
+
+
+The facial features, 2D skeletons and hands are detected and tracked using the
+[CMU OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/)
+library. Watch the video above to get an idea of the accuracy.
 
 ### Annotation of social interactions
 
@@ -84,23 +93,28 @@ Using an [annotation tool](https://github.com/freeplay-sandbox/annotator/) speci
 Specifically, the following constructs are annotated:
 
 
-| **Task Engagement**   | goal-oriented play |
-|                       | aimless play       |
-|                       | adult seeking      |
-|                       | no play            |
-|-----------------------|--------------------|
-| **Social Engagement** | solitary play      |
-|                       | onlooker           |
-|                       | parallel play      |
-|                       | associative play   |
-|                       | cooperative play   |
-|-----------------------|--------------------|
-| **Social attitude**   | pro-social         |
-|                       | adversarial        |
-|                       | assertive          |
-|                       | frustrated         |
-|                       | passive            |
+| **Task Engagement**   |
+|-----------------------|
+| goal-oriented play    |
+| aimless play          |
+| adult seeking         |
+| no play               |
 
+| **Social Engagement** |
+|-----------------------|
+| solitary play         |
+| onlooker              |
+| parallel play         |
+| associative play      |
+| cooperative play      |
+
+| **Social attitude**   |
+|-----------------------|
+| pro-social            |
+| adversarial           |
+| assertive             |
+| frustrated            |
+| passive    
 
 Commonly observed social dynamics are mapped to these constructs.
 For instance, a sequence during which a child appears to be bored is annotated
