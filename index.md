@@ -14,7 +14,7 @@ child-robot social interactions.
 These interactions are recorded during little-constrained **free play**
 episodes. They emcompass a rich and diverse set of social behaviours.
 
-<video controls src="media/bestof.mp4">
+<video controls src="media/bestof.mp4" poster="media/bestof.jpg">
 Sorry, your browser doesn't support embedded videos, 
 but don't worry, you can <a href="media/bestof.mp4">download it</a>
 and watch it with your favorite video player!
