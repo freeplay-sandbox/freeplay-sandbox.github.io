@@ -116,7 +116,7 @@ The dataset exists in two flavours:
 
 For evaluation purpose, you can download a short excerpt (10 seconds) of the full dataset here:
 
-_link to be added before the end of July 2017_
+[Dataset excerpt (65MB)](dataset/10s-extract.bag)
 
 
 Acquisition Procedure
