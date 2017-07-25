@@ -1,5 +1,6 @@
-The Freeplay Sandbox Dataset
-============================
+---
+title: The Freeplay Sandbox Dataset
+---
 
 ![The two conditions](media/setup-illustration.png)
 
@@ -93,6 +94,8 @@ Other example include: a gentle hand grabbing would be *assertive* vs a
 not-so-gentle hand grabbing that would be *adversarial*; manipulative or bossy
 behaviours are labelled as *assertive*; when children laugh together, they
 exhibit a *pro-social* attitude, etc.
+
+See [Coding scheme](coding-scheme) for details.
 
 How to get the dataset
 ----------------------
