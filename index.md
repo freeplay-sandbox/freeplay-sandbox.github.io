@@ -2,7 +2,7 @@
 title: The Freeplay Sandbox Dataset
 ---
 
-Welcome on the PInSORo Dataset homepage
+Welcome to the PInSORo Dataset homepage
 =======================================
 
 ![The two conditions](media/setup-illustration.png)
