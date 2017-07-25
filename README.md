@@ -1,6 +1,5 @@
----
-title: The Freeplay Sandbox Dataset
----
+The Freeplay Sandbox Dataset
+============================
 
 ![The two conditions](media/setup-illustration.png)
 
