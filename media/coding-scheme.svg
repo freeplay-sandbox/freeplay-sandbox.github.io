@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="annotations-ui.svg">
+   sodipodi:docname="coding-scheme.svg">
   <defs
      id="defs4">
     <symbol
@@ -6777,8 +6777,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="437.80022"
-     inkscape:cy="255.16405"
+     inkscape:cx="599.32346"
+     inkscape:cy="249.64652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6807,7 +6807,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7431,69 +7431,69 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="85"
-       y="547.36224"
+       style="font-style:normal;font-weight:normal;font-size:21.00301552px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.60536"
+       y="552.02087"
        id="text25496"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan25498"
-         x="85"
-         y="547.36224">Yellow child</tspan></text>
+         x="136.60536"
+         y="552.02087">Yellow child</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25500"
-       y="547.36224"
-       x="458.99997"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="548.48535"
+       x="507.63895"
+       style="font-style:normal;font-weight:normal;font-size:21.00301552px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="547.36224"
-         x="458.99997"
+         y="548.48535"
+         x="507.63895"
          id="tspan25502"
          sodipodi:role="line">Purple child</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25508"
-       y="632.77209"
-       x="14.552017"
-       style="font-style:normal;font-weight:normal;font-size:30.80263329px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="625.52338"
+       x="23.527294"
+       style="font-style:normal;font-weight:normal;font-size:26.84611702px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="632.77209"
-         x="14.552013"
+         y="625.52338"
+         x="23.527292"
          id="tspan25510"
          sodipodi:role="line">Task</tspan><tspan
-         y="671.27539"
-         x="14.552017"
+         y="659.08099"
+         x="23.527304"
          sodipodi:role="line"
          id="tspan25512">engagement</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30.80263329px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="14.552017"
-       y="780.77209"
+       style="font-style:normal;font-weight:normal;font-size:26.84611702px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.077841"
+       y="794.11121"
        id="text25514"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan25516"
-         x="14.552021"
-         y="780.77209">Social</tspan><tspan
+         x="24.077841"
+         y="794.11121">Social</tspan><tspan
          id="tspan25518"
          sodipodi:role="line"
-         x="14.552017"
-         y="819.27539">engagement</tspan></text>
+         x="24.077848"
+         y="827.66882">engagement</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25520"
-       y="944.77209"
-       x="14.552017"
-       style="font-style:normal;font-weight:normal;font-size:30.80263329px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="948.35956"
+       x="24.851244"
+       style="font-style:normal;font-weight:normal;font-size:26.84611702px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="944.77209"
-         x="14.552021"
+         y="948.35956"
+         x="24.851244"
          id="tspan25522"
          sodipodi:role="line">Social</tspan><tspan
-         y="983.27539"
-         x="14.552013"
+         y="981.91718"
+         x="24.851248"
          sodipodi:role="line"
          id="tspan25524">attitude</tspan></text>
     <rect
