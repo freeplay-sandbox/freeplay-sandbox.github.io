@@ -2,11 +2,14 @@
 title: The Freeplay Sandbox Dataset
 ---
 
+Welcome on the PInSORo Dataset homepage
+=======================================
+
 ![The two conditions](media/setup-illustration.png)
 
-The **Freeplay Sandbox Dataset** (also called _PInSoRo dataset_) is a large (120
+The **PInSoRo Dataset** (also called _Freeplay Sandbox dataset_) is a large (120
 children, 45h+ of RGB-D video recordings), open-data dataset of chid-child and
-child-robot interactions.
+child-robot social interactions.
 
 These interactions are recorded during little-constrained **free play**
 episodes. They emcompass a rich and diverse set of social behaviours.
@@ -85,15 +88,6 @@ Specifically, the following constructs are annotated:
 | frustrated            |
 | passive    
 
-Commonly observed social dynamics are mapped to these constructs.
-For instance, a sequence during which a child appears to be bored is annotated
-as *passive*; an annoyed child would be *frustrated*, and the child being
-annoying can be labelled as exhibiting an *adversarial* behaviour.
-
-Other example include: a gentle hand grabbing would be *assertive* vs a
-not-so-gentle hand grabbing that would be *adversarial*; manipulative or bossy
-behaviours are labelled as *assertive*; when children laugh together, they
-exhibit a *pro-social* attitude, etc.
 
 See [Coding scheme](coding-scheme) for details.
 

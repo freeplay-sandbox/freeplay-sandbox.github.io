@@ -3,14 +3,30 @@ title: Coding scheme
 ---
 
 Coding scheme
--------------
+=============
 
+Social interactions are annotated using a dedicated [annotation
+tool](https://github.com/freeplay-sandbox/annotator/). The following annotations
+are made, for each child:
 
 ![Coding scheme](media/coding-scheme.png)
 
-We detail hereafter the coding scheme.
+Commonly observed social dynamics are mapped to these constructs.
+For instance, a sequence during which a child appears to be bored is annotated
+as *passive*; an annoyed child would be *frustrated*, and the child being
+annoying can be labelled as exhibiting an *adversarial* behaviour.
 
-### Task Engagement
+Other example include: a gentle hand grabbing would be *assertive* vs a
+not-so-gentle hand grabbing that would be *adversarial*; manipulative or bossy
+behaviours are labelled as *assertive*; when children laugh together, they
+exhibit a *pro-social* attitude, etc.
+
+We detail hereafter the exact meaning of these categories.
+
+Task Engagement
+---------------
+
+
 
 | Construct             | Details                                                                |
 |-----------------------|------------------------------------------------------------------------|
@@ -23,7 +39,9 @@ Note that *structured* play might or might no be be on topic: a structured
 activity unrelated to the offered touchscreen/drawing activity should still be
 labelled as *goal-oriented*.
 
-### Social Engagement
+Social Engagement
+-----------------
+
 
 | Construct             | Details                                                                       |
 |-----------------------|-------------------------------------------------------------------------------|
@@ -33,7 +51,9 @@ labelled as *goal-oriented*.
 | associative play      |                                                                               |
 | cooperative play      |                                                                               |
 
-### Social attitude
+Social attitude
+---------------
+
 
 | Construct             | Details                                                                   |
 |-----------------------|---------------------------------------------------------------------------|
