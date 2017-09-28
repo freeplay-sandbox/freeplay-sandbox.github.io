@@ -56,7 +56,7 @@ collected under an approved protocol at Plymouth University.
 
 Sample text: *This protocol will involve the analysis of an existing dataset,
 which includes video, audio, and other interaction recordings of children aged
-5-8 years during play interaction with a peer or a robot. All data was
+4-8 years during play interaction with a peer or a robot. All data was
 previously collected at Plymouth University, under a university-approved
 protocol. The parents of the participants consented to sharing their child's
 video and audio data with the research community. The data does not contain any
@@ -130,10 +130,19 @@ documents. You should upload the following two documents with your application:
 Once your application has been reviewed and approved, your ethics committee will
 send you a letter to that effect. Please email us a copy of your protocol along
 with the approval letter. Once we receive and verify your approval, we will
-email our 'green light'. At that point, we ask you to send us a blank 2TB
-hard-drive (the most convenient option is to order it online and get it to be
+email our 'green light'. At that point, we ask you to **send us a blank 2TB
+hard-drive** (the most convenient option is to order it online and get it 
 delivered at Plymouth University directly). We will copy and encrypt the dataset
 on it, and send it back to you within a week.
+
+Ship the hard-drive to:
+
+```
+Séverin Lemaignan
+Plymouth University -- B316 Portland Square
+Plymouth PL4 8AA
+United Kingdom
+```
 
 Your effort in following these procedures is highly appreciated!
 
