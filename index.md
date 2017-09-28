@@ -106,6 +106,7 @@ The dataset exists in two flavours:
   getting suitable **ethical clearance from your university ethics committee**.
   Due to the size of the full dataset (several terabytes), we share this
   version by shipping to you an (encrypted) harddrive with the data.
+  **[Application procedure](application)**.
 
 **The dataset will be available Autumn 2017**
 
