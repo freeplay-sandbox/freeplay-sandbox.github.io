@@ -99,8 +99,7 @@ For legal and ethical reasons, the dataset is only available to **academics**.
 The dataset exists in two flavours:
 
 - the anonymised version, **with no video streams**, that can be freely
-  downloaded once you fill in a short ethics declaration online and provide an
-  academic email address.
+  downloaded from the [Zenodo platform](https://zenodo.org/record/1043508) (5.7GB compressed).
 
 - the full dataset, **include raw video streams**, that can be obtained after
   getting suitable **ethical clearance from your university ethics committee**.
