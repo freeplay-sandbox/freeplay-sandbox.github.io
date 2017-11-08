@@ -107,8 +107,6 @@ The dataset exists in two flavours:
   version by shipping to you an (encrypted) harddrive with the data.
   **[Application procedure](application)**.
 
-**The dataset will be available Autumn 2017**
-
 ### Dataset excerpt
 
 For evaluation purpose, you can download a short excerpt (10 seconds) of the full dataset here:
