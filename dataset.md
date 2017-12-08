@@ -97,9 +97,9 @@ interactions have been annotated.**
 Acquisition Procedure
 ---------------------
 
-To know more about the acquisition procedure, please refer to the paper *The
+To know more about the acquisition procedure, please [refer to the paper *The
 Free-play Sandbox: a Methodology for the Evaluation of Social Robotics and a
-Dataset of Social Interaction* (pre-print available on arXiv [link to be added soon])
+Dataset of Social Interaction*](https://arxiv.org/abs/1712.02421).
 
 ![Acquisition setup in the child-child condition](media/setup.png)
 

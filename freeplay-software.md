@@ -2,9 +2,9 @@ Re-using the Free-Play Sandbox paradigm
 =======================================
 
 You might want to first familiarize yourself with the paradigm by reading the
-reference article *The Free-play Sandbox: a Methodology for the Evaluation of
-Social Robotics and a Dataset of Social Interaction* (pre-print available on
-arXiv [link to be added soon]).
+[reference article *The Free-play Sandbox: a Methodology for the Evaluation of
+Social Robotics and a Dataset of Social
+Interaction*](https://arxiv.org/abs/1712.02421).
 
 To use the *Free-play Sandbox* paradigm yourself, run your own studies, and
 acquire new data, you need a sandtray (essentially, a large touchscreen -- in
