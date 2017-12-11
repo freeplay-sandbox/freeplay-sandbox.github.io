@@ -1,6 +1,19 @@
 Dataset analysis
 ================
 
+Writing software to analyse the dataset
+---------------------------------------
+
+We provide [software
+templates](https://github.com/freeplay-sandbox/analysis-templates) to access the
+dataset. If you are not familiar with ROS and `rosbag` in particular, we
+recommend you to start from here.
+
+
+Provided tools
+--------------
+
+
 Tools to analyse the dataset are split into two:
 
 - basic scripts are available to generate quick statistics on the dataset

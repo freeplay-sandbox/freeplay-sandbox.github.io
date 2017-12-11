@@ -42,6 +42,6 @@ The reference coding scheme, as well as our custom tool to annotate recordings,
 Analysis of the recorded data
 -----------------------------
 
-See [dataset analysis](analyse) for an overview of the tools and code snippets
+See [dataset analysis](analysing) for an overview of the tools and code snippets
 we provide.
 

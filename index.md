@@ -39,7 +39,7 @@ For evaluation purpose, you can download a short excerpt (10 seconds) of the ful
 How to use/analyse the dataset
 ------------------------------
 
-See [Dataset Analysis](analyse).
+See [Dataset Analysis](analysing).
 
 How to reproduce the dataset/acquire more data
 ----------------------------------------------
