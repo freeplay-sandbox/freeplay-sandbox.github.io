@@ -46,6 +46,12 @@ library.
 Dataset excerpt
 ---------------
 
+<video controls src="media/bestof.mp4" poster="media/bestof.jpg">
+Sorry, your browser doesn't support embedded videos, 
+but don't worry, you can <a href="media/bestof.mp4">download it</a>
+and watch it with your favorite video player!
+</video>
+
 For evaluation purpose, you can download a short excerpt (10 seconds) of the full dataset here:
 
 [Dataset excerpt (65MB)](dataset/10s-extract.bag)
