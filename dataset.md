@@ -94,20 +94,19 @@ Specifically, the following constructs are annotated:
 
 See [Coding scheme](coding-scheme) for details.
 
-**Note that the video annotations are not completed yet: as of writing (06 Dec
-2017), about 70% of the child-child interactions and 40% of the child-robot
-interactions have been annotated.**
-
+**Note that the video annotations are not completed yet: as of writing (05 Jan
+2018), about 75% of the interactions have been annotated.**
 
 
 Acquisition Procedure
 ---------------------
 
+![Acquisition setup in the child-child condition](media/setup.jpg)
+
 To know more about the acquisition procedure, please [refer to the paper *The
 Free-play Sandbox: a Methodology for the Evaluation of Social Robotics and a
 Dataset of Social Interaction*](https://arxiv.org/abs/1712.02421).
 
-![Acquisition setup in the child-child condition](media/setup.png)
 
 
 Access to the dataset
