@@ -1,6 +1,14 @@
 Dataset analysis
 ================
 
+Getting started
+---------------
+
+To get started with the dataset, [see the README
+file](https://github.com/freeplay-sandbox/dataset) on the dataset's GitHub
+repository.
+
+
 Writing software to analyse the dataset
 ---------------------------------------
 
@@ -12,7 +20,6 @@ recommend you to start from here.
 
 Provided tools
 --------------
-
 
 Tools to analyse the dataset are split into two:
 
