@@ -5,9 +5,11 @@ title: The PInSoRo Dataset
 The PInSoRo Dataset
 ===================
 
-The **PInSoRo Dataset** consists in 7 recordings (45 child-child
-interactions; 30 child-robot interactions) of free play interactions.
+The **PInSoRo Dataset** consists in 75 recordings (45 child-child interactions;
+30 child-robot interactions; up to 40 min per interactions) of annotated free
+play interactions.
 
+[Get the dataset!](get-dataset)
 
 Dataset Content
 ---------------
