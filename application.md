@@ -24,7 +24,7 @@ Institutional Review Board (IRB).
 > If your research does not require the video and audio recordings of the
 > children, and only anonymised data (like the skeletons and touch interactions)
 > is sufficient, a simpler procedure (that does not require ethics approval) is
-> [available](anon-download).
+> [available](get-dataset).
 
 
 Guidelines for setting up an research protocol
