@@ -21,10 +21,10 @@ from your institution's *research ethics committee* before you can access the da
 In the US, you can send us an approved protocol from your university's
 Institutional Review Board (IRB).
 
-> If your research does not require the video and audio recordings of the
-> children, and only anonymised data (like the skeletons and touch interactions)
-> is sufficient, a simpler procedure (that does not require ethics approval) is
-> [available](get-dataset).
+**If your research does not require the video and audio recordings of the
+children, and only anonymised data (like the skeletons and touch interactions)
+is sufficient, a simpler procedure (that does not require ethics approval) is
+also [available](get-dataset).**
 
 
 Guidelines for setting up an research protocol
@@ -139,8 +139,9 @@ Ship the hard-drive to:
 
 ```
 Séverin Lemaignan
-Plymouth University -- B316 Portland Square
-Plymouth PL4 8AA
+Bristol Robotics Laboratory
+University of the West of England
+Coldharbour Lane - Bristol, BS16 1QY
 United Kingdom
 ```
 
