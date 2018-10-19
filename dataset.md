@@ -106,8 +106,8 @@ Acquisition Procedure
 ![Acquisition setup in the child-child condition](media/setup.jpg)
 
 To know more about the acquisition procedure, please [refer to the paper *The
-Free-play Sandbox: a Methodology for the Evaluation of Social Robotics and a
-Dataset of Social Interaction*](https://arxiv.org/abs/1712.02421).
+PInSoRo dataset: Supporting the data-driven study of child-child and child-robot
+social dynamics*](https://doi.org/10.1371/journal.pone.0205999).
 
 
 

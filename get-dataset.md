@@ -55,13 +55,17 @@ If you use the dataset, please cite the two following references:
   month={Nov}
 }
 
-@article{lemaignan2017freeplay,
-   author = {Lemaignan, Séverin and Edmunds, Charlotte and Senft, Emmanuel and Belpaeme, Tony},
-    title = {The Free-play Sandbox: a Methodology for the Evaluation of Social Robotics and a Dataset of Social Interactions},
-    journal = {ArXiv e-prints},
-    eprint = {1712.02421},
-    year = 2017,
-    url = {https://arxiv.org/abs/1712.02421},
+@article{lemaignan2018pinsoro,
+    author = {Lemaignan, Séverin AND Edmunds, Charlotte E. R. AND Senft, Emmanuel AND Belpaeme, Tony},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {The PInSoRo dataset: Supporting the data-driven study of child-child and child-robot social dynamics},
+    year = {2018},
+    month = {10},
+    volume = {13},
+    pages = {1-19},
+    number = {10},
+    doi = {10.1371/journal.pone.0205999}
 }
 ```
 
