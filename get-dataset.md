@@ -10,7 +10,7 @@ For legal and ethical reasons, the dataset is only available to **academics**.
 The dataset exists in two flavours:
 
 - the anonymised version, **with no video streams**, that can be freely
-  downloaded from the [Zenodo platform](https://zenodo.org/record/1043508) (5.7GB
+  downloaded from the [Zenodo platform](https://zenodo.org/record/1043507) (7.2GB
   compressed). Once downloaded, unzip it somewhere and [follow these
   instructions](update-git-metadata) **to update the dataset with the latest
   meta-data**.
@@ -41,7 +41,7 @@ full dataset here:
 Citation
 --------
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043508.svg)](https://doi.org/10.5281/zenodo.1043508)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043507.svg)](https://doi.org/10.5281/zenodo.1043507)
 
 If you use the dataset, please cite the two following references:
 
@@ -49,7 +49,7 @@ If you use the dataset, please cite the two following references:
 @misc{pinsoro2017, 
   author={Lemaignan, Séverin and Edmunds, Charlotte and Belpaeme, Tony}, 
   title={The PInSoRo dataset}, 
-  DOI={10.5281/zenodo.1043508},
+  DOI={10.5281/zenodo.1043507},
   publisher={Zenodo}, 
   year={2017}, 
   month={Nov}

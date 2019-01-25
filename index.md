@@ -5,7 +5,7 @@ title: The PInSoRo Dataset
 Welcome to the PInSoRo Dataset homepage
 =======================================
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043508.svg)](https://doi.org/10.5281/zenodo.1043508)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043507.svg)](https://doi.org/10.5281/zenodo.1043507)
 
 <video width="800" height="450" controls src="media/mosaic_blend.mp4" poster="media/mosaic_blend.jpg">
 Sorry, your browser doesn't support embedded videos, 
