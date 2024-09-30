@@ -15,11 +15,9 @@ The dataset exists in two flavours:
   instructions](update-git-metadata) **to update the dataset with the latest
   meta-data**.
 
-- the full dataset, **including raw video streams**, can be obtained after
-  getting suitable **ethical clearance from your university ethics committee**.
-  Due to the size of the full dataset (several terabytes), we share this version
-  by shipping to you an harddrive with the data. See the **[Application
-  procedure](application)**.
+- the full dataset, **including raw video streams**. **[update 2024]
+  unfortunately, due to a change in the Plymouth ethical committee policy, we
+  can no longer distribute the full dataset**.
 
 Besides, the **meta-data of the dataset** (demographics, details of the
 recordings), as well as the **video annotations**, are stored and maintained as
